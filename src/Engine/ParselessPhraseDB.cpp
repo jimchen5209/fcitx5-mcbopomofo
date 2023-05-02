@@ -25,6 +25,7 @@
 
 #include <cassert>
 #include <cstring>
+#include <cstdint>
 
 namespace McBopomofo {
 
