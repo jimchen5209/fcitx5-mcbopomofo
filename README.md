@@ -1,5 +1,9 @@
 # fcitx5-mcbopomofo: 小麥注音輸入法 fcitx5 模組
 
+## 封存
+上游似乎修好了，不需要這個了
+我可以成功在 Fedora 39 編譯官方版本了
+
 ![Build](https://github.com/openvanilla/fcitx5-mcbopomofo/actions/workflows/ci.yaml/badge.svg)
 
 本專案是[小麥注音](https://github.com/openvanilla/McBopomofo)的 Linux 版本，功能與小麥注音 macOS 版同步：
